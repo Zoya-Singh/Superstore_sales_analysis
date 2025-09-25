@@ -1,4 +1,4 @@
-# 🚀 Superstore Sales Analytics and Forecasting (Maximized Accuracy)
+#Superstore Sales Analytics and Forecasting 
 
 A complete end-to-end Machine Learning project to analyze transactional data and predict future sales, achieving a **highly accurate, production-ready** performance.
 
